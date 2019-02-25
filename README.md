@@ -1,4 +1,4 @@
-# Java Git Gaze
+# Java Git Gazer
 Quick and dirty Java version of my GitGaze application (originally written in Golang).
 
 I figured since I'm applying for a Java position as well, I should write a Java version of the challenge.
